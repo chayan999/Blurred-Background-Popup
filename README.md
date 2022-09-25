@@ -5,4 +5,4 @@
 
 ![screenShot](img/screenshot2.PNG)
 
-![screenShot](img/screenshot2.PNG)
+![screenShot](img/screenShort1.PNG)
